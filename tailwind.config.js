@@ -12,7 +12,7 @@ module.exports = {
         light:
         {
           100:"#D6C6FF",
-          200:"#A8B5DB",
+          200:"#wA8B5DB",
           300:"#9CA4AB",
         },
         dark:{
